@@ -7,6 +7,8 @@
 /runs
 /logs
 /exports
+native_client/LICENSE
+native_client/README.mozilla
 /native_client/setup.cfg
 /native_client/build
 /native_client/*.egg-info
@@ -18,3 +20,7 @@
 /native_client/python/utils_wrap.cpp
 /native_client/javascript/build
 /native_client/javascript/deepspeech_wrap.cxx
+/native_client/deepspeech
+/native_client/generate_trie
+/native_client/*.so
+/native_client/native_client.tar.xz
